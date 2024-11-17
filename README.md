@@ -1,7 +1,7 @@
 ### Olá! eu sou o Kaique Santos👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiquesanttoz)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaique-dos-santos-a92483330)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaiquesantos2024)
 
 ![kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKaiqueSantos&show_icons=true&theme=radical)
 
